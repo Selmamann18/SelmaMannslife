@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Diplomata+SC');
+h1{
+    font-family: 'Diplomata SC', cursive;
+}
+body {
+    background-color: MistyRose;
+    background: linear-gradient(to right,#F0F8FF, rgb(255,0,255));
+}
+
+h1 {
+    background-color: #F0F8FF;
+}
+
+
+p {
+    background-color: rgb(255,0,255);
+    font-family:'Diplomata SC', cursive;;
+}
+
+.pictures {
+     height:200px;  
+     width:200px;
+}
+.picture1 {
+    height:500px;
+    width:500px;
+}
+.picture2 {
+    height:500px;
+    width:500px;
+}
+li { 
+    font-family: 'Diplomata SC', cursive;
+}
+.gifpic { 
+    height:300px;
+    width:300;
+}
